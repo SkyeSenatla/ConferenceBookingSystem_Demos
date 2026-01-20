@@ -55,8 +55,41 @@ Contributors should:
 
 ---
 
-## 📄 License
+## Developer Onboarding (In Progress)
+- This project is developed incrementally as part of a Software training program. The purpose of this section is to help new contributors to understand 
+- What this system is intended to become
+- How documentation  is organised
+- Where to find key project artefacts
+-  What technologies will be used to develop this project?
 
+---
+## System Context
+
+The conference Booking System is a conceptual system intended to manage:
+- Room Availability
+- Booking requests
+- Conflict prevention
+- Admnistration Oversight
+- etc..
+
+At this stage, the system is documented through:
+- Sprint planning artefacts
+
+Implementation details will be added in later modules
+
+## Project Documentation
+This repository contains sprint documentation created during Scrum Simulations:
+- `sprint-1\`- Sprint planning, execution and review artefacts
+
+## Upcoming Documentation
+
+The following sections will be added as the project evoles
+- API documentations (Swagger/OpenAPI)
+- Runtime instructions (Docker)
+- Developer setup and contribution workflows
+
+
+## LICENCE
 This project is licensed under the MIT License.
 
 ---
